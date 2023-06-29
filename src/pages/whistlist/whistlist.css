@@ -1,0 +1,9 @@
+.whistlist {
+  padding: 30px 12px;
+}
+
+.whistlist__title {
+  font-size: 20px;
+  border-bottom: 1px solid #e3e5e6;
+  padding-bottom: 15px;
+}
